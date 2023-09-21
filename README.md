@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h2 align="center">Hello there!</h1>
 <div align="center">
 
-  🔭 I’m working with *.Net* and *MSSQL* <br>
-  🌱 I’m currently learning *Sping Boot*, *PostgreSQL*, *MySQL*, *TypeScript*, *Node.js*, *React*.
+  🔭 I’m working with **.Net** and **MSSQL** <br>
+  🌱 I’m currently learning **Spring Boot**, **PostgreSQL**, **MySQL**, **TypeScript**, **Node.js**, **React**.
 
  📫 How to reach me *oguzhanngoley@gmail.com*
 <br>
